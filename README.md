@@ -1,6 +1,6 @@
 # Lab work #2
 **Implementation of web application from [lab work #1](https://github.com/foliageh/itmo-web-lab1) using Java, Servlets and JSP.**  
-Java, Servlets, JSP, WildFly, JavaScript.
+Java, Servlets, JSP, JavaScript, WildFly, MVC.
 
 > [How to deploy on Helios?](#get-started)
 
