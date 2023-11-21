@@ -4,7 +4,7 @@ Java, Servlets, JSP, WildFly, JavaScript.
 
 > [How to deploy on Helios?](#get-started)
 
-![image](https://github.com/foliageh/itmo-web-lab2/assets/46216950/9ec87bcc-b4b8-48c3-9f6f-8e7b358b0578)
+![image](https://github.com/foliageh/itmo-web-lab2/assets/46216950/dcb2dc68-fc5b-4d8c-9634-ef3fb27b1b6d)
 
 ## Task
 ![task](https://github.com/foliageh/itmo-web-lab2/assets/46216950/86622d82-42f4-4c48-b0ed-38b893bd6eae)
